@@ -4,8 +4,10 @@ permalink: /contact/
 excerpt: "practical information"
 
 header:
-  overlay_image: /assets/images/contact/staticmap.png
-  image_description: "Lorraine Fab Living Lab"
+  overlay_image: /assets/images/contact/staticmap.jpg
+  image_description: "Contact information"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_filter: rgba(0, 0, 153, 0.5)
 last_modified_at: 2020-06-18
 ---
 

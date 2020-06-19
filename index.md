@@ -6,6 +6,8 @@ permalink: "/"
 excerpt: European Perspectives on Innovation Management
 header:
   overlay_image: "/assets/images/home/banner-labcom.jpg"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_filter: rgba(0, 0, 153, 0.5)
 
 
 <!-- gallery:

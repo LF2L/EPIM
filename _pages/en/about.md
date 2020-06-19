@@ -12,6 +12,8 @@ excerpt: "European Perspectives on Innovation Management"
 header:
   overlay_image: /assets/images/about/erpi-travail.jpg
   image_description: "EPIM"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_filter: rgba(0, 0, 153, 0.5)
 
 
 intro:
