@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 permalink: /contact/
-excerpt: "Practical informationSa"
+excerpt: "Practical information"
 
 header:
   overlay_image: /assets/images/banner/bannercontact3.jpg
