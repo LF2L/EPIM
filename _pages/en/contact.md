@@ -4,7 +4,7 @@ permalink: /contact/
 excerpt: "Practical informationSa"
 
 header:
-  overlay_image: /assets/images/banner/bannercontact2.png
+  overlay_image: /assets/images/banner/bannercontact3.jpg
   image_description: "Contact information"
   caption: 
   overlay_filter: rgba(0, 0, 153, 0.5)
