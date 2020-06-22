@@ -10,9 +10,9 @@ sort_by: orden
 
 excerpt: "European Perspectives on Innovation Management"
 header:
-  overlay_image: /assets/images/about/erpi-travail.jpg
+  overlay_image: /assets/images/banner/bannercs.jpg
   image_description: "EPIM"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: 
   overlay_filter: rgba(0, 0, 153, 0.5)
 
 

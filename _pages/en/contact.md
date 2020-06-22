@@ -1,12 +1,12 @@
 ---
 title: "Contact"
 permalink: /contact/
-excerpt: "practical information"
+excerpt: "Practical informationSa"
 
 header:
-  overlay_image: /assets/images/contact/staticmap.jpg
+  overlay_image: /assets/images/banner/bannercontact2.png
   image_description: "Contact information"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: 
   overlay_filter: rgba(0, 0, 153, 0.5)
 last_modified_at: 2020-06-18
 ---
@@ -14,8 +14,8 @@ last_modified_at: 2020-06-18
 ## Contact Information
 
 Proposals for chapters or manuscript for chapters should be sent directly to **both** editors:
-- Dr. ir. Rob Dekkers (rob.dekkers@glasgow.ac.uk)
-- Prof. Laure Morel (laure.morel@univ-lorraine.fr)
+- Dr. ir. Rob Dekkers (rob.dekkers {at} glasgow.ac.uk)
+- Prof. Laure Morel (laure.morel {at} univ-lorraine.fr)
 
 The editors also welcome informal inquiries, which should also be sent to both at the same time.
 
