@@ -1,7 +1,7 @@
 ---
 title: Laure MOREL
 permalink: /people/Laure-Morel/
-excerpt: "Équipe de Recherche sur les Processus Innovatifs, Université de Lorraine, France"
+excerpt: "Université de Lorraine, Équipe de Recherche sur les Processus Innovatifs, France"
 author: Laure Morel
 last_modified_at: 2020-06-18
 header:

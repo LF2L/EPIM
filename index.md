@@ -38,7 +38,7 @@ We are looking forward to receiving chapters about Nordic, Anglo-Saxon, Nippon-R
 
 ## Book Editors:
 - Dr. ir. Rob Dekkers (Adam Smith Business School, University of Glasgow, United Kingdom)
-- Prof. Laure Morel (Équipe de Recherche sur les Processus Innovatifs, Université de Lorraine, France)
+- Prof. Laure Morel (Université de Lorraine, Équipe de Recherche sur les Processus Innovatifs, France)
 
 
 ## Deadlines
