@@ -3,26 +3,28 @@ lang: en
 title: Book
 permalink: "/"
 
-excerpt: European Perspectives on Innovation Management
+excerpt: "European Perspectives on Innovation Management"
 header:
-  overlay_image: "/assets/images/banner/banneropen.jpg"
+  overlay_image: /assets/images/banner/banneropen.jpg
   caption: 
   overlay_filter: rgba(0, 0, 153, 0.5)
 
 
-<!-- gallery:
-- url: https://erpi.univ-lorraine.fr/
-  image_path: "/assets/images/partners/logo-ERPI.png"
-  alt: ERPI
-  title: ERPI
-- url: http://www.anrt.asso.fr/fr
-  image_path: "/assets/images/partners/LogoANR.jpg"
-  alt: ANR
-  title: ANR
-- url: https://teaergo.com/
-  image_path: "/assets/images/partners/TEASite2.jpg"
-  alt: TEA
-  title: TEA ergo -->
+gallery:
+  - url: "https://www.univ-lorraine.fr"
+    image_path: "/assets/images/logo/logoul.png"
+    alt: UL
+    title: UL
+  - url: "https://erpi.univ-lorraine.fr"
+    image_path: "/assets/images/logo/logoerpi.jpg"
+    alt: ERPI
+    title: ERPI
+  - url: "https://www.springer.com/gp"
+    image_path: "/assets/images/logo/logospringer.png"
+    alt: ERPI
+    title: ERPI
+
+
 
 ---
 
@@ -52,13 +54,21 @@ Note that chapters once received will be considered by the editors and sent out 
 For more detailed information see the complete Call for Chapters.
 [Download PDF here](/EPIM/assets/uploads/Call_for_Chapters_European_Perspectives_Innovation_Version_2020-24_AMENDED.pdf){: .btn .btn--primary .btn--small}
 
+## Partners 
 
+{% include gallery %}
 
 <!-- If you want to display the new or announcements here  -->
 ## Announcements
 
 
 {% include /EPIM/Posts-EN.html %}
+
+
+
+
+## Partners (second display)
+
 
 
 <!-- ## Legal notice

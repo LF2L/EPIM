@@ -4,14 +4,14 @@ main:
     url: /about/
   # - title: "Publications"
   #   url: /publications/
+
+  - title: "Accepted Chapters"
+    url: /acceptedchapters/
   - title: "News and Q&A"
     url: /news/
   - title: "Contact"
     url: /contact/
 
-
-
-  
 
 
 
