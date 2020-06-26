@@ -52,7 +52,7 @@ Note that chapters once received will be considered by the editors and sent out 
 
 ## Download the Call for Chapters
 For more detailed information see the complete Call for Chapters.
-[Download PDF here](/EPIM/assets/uploads/Call_for_Chapters_European_Perspectives_Innovation_Version_2020-24_AMENDED.pdf){: .btn .btn--primary .btn--small}
+[Download PDF here](/EPIM/assets/uploads/Call_for_Chapters_European_Perspectives_Innovation_Version_2020-24_AMENDED.pdf){: .btn .btn--info} 
 
 ## Partners 
 
@@ -65,13 +65,3 @@ For more detailed information see the complete Call for Chapters.
 {% include /EPIM/Posts-EN.html %}
 
 
-
-
-## Partners (second display)
-
-
-
-<!-- ## Legal notice
-
-N-Hum-Inno is a common laboratory between TEA and the ERPI Laboratory and funded by the ANR - Contract number ANR-18-LCV3-0007-01.
- -->
