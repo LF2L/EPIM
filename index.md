@@ -60,8 +60,3 @@ For more detailed information see the complete Call for Chapters.
 
 {% include /EPIM/Posts-EN.html %}
 
-
-<!-- ## Legal notice
-
-N-Hum-Inno is a common laboratory between TEA and the ERPI Laboratory and funded by the ANR - Contract number ANR-18-LCV3-0007-01.
- -->
