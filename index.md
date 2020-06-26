@@ -11,6 +11,15 @@ header:
 
 
 gallery:
+
+  - url: "https://www.springer.com/gp"
+    image_path: "/assets/images/logo/logospringer.png"
+    alt: Springer
+    title: Springer
+  - url: "https://www.gla.ac.uk/schools/business/"
+    image_path: "assets/images/logo/logoasbs.png"
+    alt: The University of Glasgow 
+    title : The University of Glasgow 
   - url: "https://www.univ-lorraine.fr"
     image_path: "/assets/images/logo/logoul.png"
     alt: UL
@@ -19,10 +28,8 @@ gallery:
     image_path: "/assets/images/logo/logoerpi.jpg"
     alt: ERPI
     title: ERPI
-  - url: "https://www.springer.com/gp"
-    image_path: "/assets/images/logo/logospringer.png"
-    alt: ERPI
-    title: ERPI
+ 
+
 
 
 

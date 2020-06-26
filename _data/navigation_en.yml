@@ -7,8 +7,12 @@ main:
 
   - title: "Accepted Chapters"
     url: /acceptedchapters/
-  - title: "News and Q&A"
+  - title: "Webinars and videos"
+    url: /webinars/
+  - title: "News"
     url: /news/
+  - title: "FAQ and Q&A"
+    url: /faq/
   - title: "Contact"
     url: /contact/
 

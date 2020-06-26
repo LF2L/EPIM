@@ -1,5 +1,5 @@
 ---
-title: "News and Q&A"
+title: "News"
 permalink: /news/
 layout: posts
 classes: wide
