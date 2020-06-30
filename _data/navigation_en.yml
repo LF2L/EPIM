@@ -11,7 +11,7 @@ main:
     url: /webinars/
   - title: "News"
     url: /news/
-  - title: "FAQ"
+  - title: "FAQs"
     url: /faq/
   - title: "Contact"
     url: /contact/
