@@ -1,6 +1,6 @@
 ---
 lang: en
-title: "FAQ"
+title: "FAQs"
 permalink: /faq/
 
 collection: 
@@ -16,6 +16,9 @@ header:
   overlay_filter: rgba(0, 0, 153, 0.5)
 
 
+comments: true
+
+# other options
 intro:
   - excerpt: "**European Perspectives on Innovation Management**"
 
