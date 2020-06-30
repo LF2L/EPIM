@@ -7,11 +7,11 @@ main:
 
   - title: "Accepted Chapters"
     url: /acceptedchapters/
-  - title: "Webinars and videos"
+  - title: "Webinars"
     url: /webinars/
   - title: "News"
     url: /news/
-  - title: "FAQ and Q&A"
+  - title: "FAQ"
     url: /faq/
   - title: "Contact"
     url: /contact/

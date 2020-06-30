@@ -1,6 +1,6 @@
 ---
 lang: en
-title: "FAQ and Q&A"
+title: "FAQ"
 permalink: /faq/
 
 collection: 
@@ -8,7 +8,7 @@ entries_layout: grid
 teaser_class: 
 sort_by: orden 
 
-excerpt: "Frequently Asked Questions and Questions & Answers"
+excerpt: "Frequently Asked Questions"
 header:
   overlay_image: /assets/images/banner/bannerfaq.jpg
   image_description: "Frequently Asked Questions"
