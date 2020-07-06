@@ -59,7 +59,7 @@ Note that chapters once received will be considered by the editors and sent out 
 
 ## Download the Call for Chapters
 For more detailed information see the complete Call for Chapters.
-[Download PDF here](/EPIM/assets/uploads/Call_for_Chapters_European_Perspectives_Innovation_Version_2020-24_AMENDED.pdf){: .btn .btn--info} 
+[Download PDF here](/assets/uploads/Call_for_Chapters_European_Perspectives_Innovation_Version_2020-24_AMENDED.pdf){: .btn .btn--info} 
 
 ## Partners 
 
